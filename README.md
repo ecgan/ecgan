@@ -4,6 +4,8 @@ I'm a software engineer passionate about building scalable and efficient softwar
 
 I work remotely with global companies around the world. I have previously worked with Automattic, WooCommerce, Fast.co, Experian etc. I love open source and I have contributed to projects like WordPress and WooCommerce.
 
+I am also a public speaker. I gave some talks about remote working culture and WordPress. The recordings are available at [WordPress.tv](https://wordpress.tv/speakers/gan-eng-chin/).
+
 When I am not coding, I enjoy good food (ask me about coffee and durian) and good movies (big Christopher Nolan's fan here).
 
 ## 🤝 Connect With Me
