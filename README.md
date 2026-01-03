@@ -8,7 +8,9 @@ When I am not coding, I enjoy good food (ask me about coffee and durian) and goo
 
 ## 🤝 Connect With Me
 
-Feel free to reach out if you want to collaborate on a project or just chat about anything!
+In spirit of open source, you can create an issue in [my GitHub profile repository](https://github.com/ecgan/ecgan) and ask me anything, and I'll get back to you via issue comment there.
+
+You can also reach out to me via the following links:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ecgan/)
 - 🐦 [X (formerly Twitter)](https://x.com/ecgan)
